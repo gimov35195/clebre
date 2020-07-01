@@ -1,0 +1,1 @@
+please set up cassandra first then run `init.sql` script
